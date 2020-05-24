@@ -1,2 +1,2 @@
 # to-do-list
-to do list app
+A to do list app using HTML, CSS and Javascript
